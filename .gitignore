@@ -1,0 +1,39 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+.env.*.local
+.env.local
+.secret
+
+# Hardhat / Solidity build artifacts & caches
+artifacts/
+cache/
+typechain/
+coverage/
+build/
+dist/
+.cache/
+.exported_contracts/
+openzeppelin/
+.solcover/
+
+# Optional test/report outputs
+reports/
+
+# IDEs / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Logs / temp
+*.log
+tmp/
+
+# Keep package-lock.json committed for reproducible installs
+# If you prefer ignoring it, uncomment the next line
+# package-lock.json

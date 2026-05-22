@@ -1,0 +1,16 @@
+{
+  "name": "smartcontract-project2-voting",
+  "version": "1.0.0",
+  "description": "VotingARA Solidity project for ARA 8.0 project officer election",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test",
+    "compile": "hardhat compile",
+    "deploy:localhost": "hardhat run scripts/deploy.js --network localhost",
+    "interact:localhost": "hardhat run scripts/interact.js --network localhost"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "hardhat": "^2.26.3"
+  }
+}
