@@ -149,3 +149,43 @@ Contract address: 0x5FbDB2315678afecb367f032d93F642f64180aa3
 4. Klik **Save**
 5. Import akun: MetaMask → avatar kanan atas → **Import account** → masukkan private key dari output `npx hardhat node`
 6. Berhasil jika saldo muncul `10000 ETH` di network **Hardhat Local**
+
+## Screenshot
+
+### Compile Berhasil
+
+<img src="./img/compile success.png" alt="Compile berhasil">
+
+### Hardhat Node Berjalan
+
+<img src="./img/hardhat nodes.png" alt="Hardhat local node berjalan">
+
+### Test Passing (19/19)
+
+<img src="./img/test passing.png" alt="19 test cases passing">
+
+### Deploy Berhasil
+
+<img src="./img/deploy success.png" alt="Deploy berhasil, contract address tampil">
+
+### MetaMask Connected (Hardhat Local)
+
+<img src="./img/metamask.png" alt="MetaMask terhubung ke Hardhat Local dengan saldo 10000 ETH">
+
+### Transaksi Berhasil
+
+<img src="./img/transaksi.png" alt="Transaksi vote berhasil di MetaMask">
+
+### State Berubah (Setelah Vote)
+
+**Sebelum Voting**
+<img src="./img/state awal.png" alt="Data kandidat sebelum voting">
+
+**Sesudah Voting**
+<img src="./img/state akhir.png" alt="Data kandidat berubah setelah voting">
+
+## Referensi
+
+- [Solidity Documentation](https://docs.soliditylang.org/)
+- [Hardhat Documentation](https://hardhat.org/docs)
+- [Ethers.js v6 Documentation](https://docs.ethers.org/v6/)
