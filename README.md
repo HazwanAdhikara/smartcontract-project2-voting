@@ -211,7 +211,7 @@ Contract address: 0x5FbDB2315678afecb367f032d93F642f64180aa3
 # Project 3 - Frontend & Web3 Integration
 
 ## Deskripsi Integrasi
-Bagian ini merupakan dokumentasi kelanjutan untuk Project 3. Smart contract VotingARA yang sebelumnya berjalan pada lingkungan console/terminal kini telah diintegrasikan secara penuh ke dalam antarmuka aplikasi web berbasis React. Fokus utama pada pengembangan Project 3 ini meliputi manajemen state sinkronisasi blockchain, manajemen otorisasi wallet MetaMask, pelacakan kuorum per entitas secara real-time, serta penanganan feedback transaksi on-chain.
+Bagian ini merupakan dokumentasi kelanjutan untuk Project 3. Smart contract VotingARA yang sebelumnya berjalan pada lingkungan console/terminal kini telah diintegrasikan secara penuh ke dalam intrerface aplikasi web berbasis React. Fokus utama pada pengembangan Project 3 ini meliputi manajemen state sinkronisasi blockchain, manajemen otorisasi wallet MetaMask, pelacakan kuorum per entitas secara real-time, serta penanganan feedback transaksi on-chain.
 
 ## Tech Stack Frontend
 - Framework: React (Vite)
