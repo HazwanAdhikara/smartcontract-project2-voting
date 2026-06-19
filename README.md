@@ -391,6 +391,7 @@ Setelah server aktif, buka browser Anda dan akses tautan url berikut:
 
 Menampilkan visualisasi sisa waktu countdown pemilu, bilik suara digital kandidat, serta grafik pemenuhan batas kuorum 30% per entitas pemilih.
 <img width="1411" height="744" alt="image" src="https://github.com/user-attachments/assets/7aa11058-b7dc-4c11-8b3f-81b5c7c1e476" />
+<img width="1662" height="833" alt="image" src="https://github.com/user-attachments/assets/af90245a-4950-45bb-a2b1-ec0ac14965a4" />
 
 
 
