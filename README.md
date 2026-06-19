@@ -8,6 +8,7 @@ Project VotingARA adalah smart contract voting on-chain untuk pemilihan Project 
 
 - Hazwan Adhikara Nasution (5027231017)
 - Hafiz Akmaldi Santosa (5027221061)
+- Malvin Putra Rismahardian (5027231048)
 
 ## Fitur Wajib 
 
